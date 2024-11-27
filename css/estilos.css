@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> 1fc80ac (Midifique la cabechota)
     text-align: center;
     font-family: Arial;
     font-size: 16px;
