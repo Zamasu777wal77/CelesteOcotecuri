@@ -1,10 +1,15 @@
 body
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: blue;
 =======
     color: red;
 >>>>>>> 1fc80ac (Midifique la cabechota)
+=======
+    background: #1e1f24;
+    color: #333;
+>>>>>>> cabezon
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -12,17 +17,35 @@ body
     padding: 0;
 }
 
+<<<<<<< HEAD
 #cabecera
 {
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
+=======
+#cabezon
+{
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: rgb(206, 17, 17);
+>>>>>>> cabezon
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #tagline
+=======
+#cabezon #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabezon #tagline
+>>>>>>> cabezon
 {
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -44,5 +67,21 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     padding: 1em;
 }
+=======
+    background: white;
+    padding: 1em;
+}
+
+#footer
+{
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+
+>>>>>>> cabezon
